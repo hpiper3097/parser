@@ -1,6 +1,6 @@
 //parser.cpp
 
-#include "parser.hpp"
+#include "inc/parser.hpp"
 
 void Parser::print()
 {
